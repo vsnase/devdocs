@@ -27,7 +27,7 @@ If you want to access this resource, simply query the following URL:
 ### Required Parameters
 Single address details can be retrieved via the address ID:
 
-* **http://my-shop-url/api/address/id**
+* **http://my-shop-url/api/addresses/id**
 
 ### Return Value
 | Model                                 | Table            |
