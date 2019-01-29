@@ -15,17 +15,23 @@ This resource supports the following operations:
 
 |  Access URL                 | GET                | GET (List)            | PUT                   | PUT (Batch)            | POST                   | DELETE                | DELETE (Batch)        |
 |-----------------------------|--------------------|-----------------------|-----------------------|------------------------|------------------------|-----------------------|-----------------------|
-| /api/translations              | ![No](../img/no.png)| ![Yes](../img/yes.png) | ![Yes](../img/yes.png) | ![Yes](../img/yes.png)  | ![Yes](../img/yes.png)  | ![Yes](../img/yes.png) | ![Yes](../img/yes.png) |
+| /api/translations              | ![Yes](../img/yes.png)| ![Yes](../img/yes.png) | ![Yes](../img/yes.png) | ![Yes](../img/yes.png)  | ![Yes](../img/yes.png)  | ![Yes](../img/yes.png) | ![Yes](../img/yes.png) |
 
 If you want to access this resource, simply query the following URL:
 
 * **http://my-shop-url/api/translations**
 
-## GET (List)
+## GET
 
 You can retrieve data of translations by providing the specific id
 
 * **http://my-shop-url/api/translations/id**
+
+## GET (List)
+
+You can retrieve data of translations by providing the specific id
+
+* **http://my-shop-url/api/translations/**
 
 ### Return Value
 
