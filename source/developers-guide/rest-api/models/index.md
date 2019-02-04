@@ -94,7 +94,7 @@ subgroup: REST API
 
 | Field               | Type                  | Original object                                 |
 |---------------------|-----------------------|-------------------------------------------------|
-| number                 | string                |                                                 |
+| number                | string (required)   |                                                 |
 | supplierNumber      | string                |                                                 |
 | additionalText      | string                |                                                 |
 | weight              | string                |                                                 |
