@@ -123,6 +123,7 @@ subgroup: REST API
 | active              | boolean               |                                                 |
 | shippingFree        | boolean               |                                                 |
 | esd                 | object                | **[Esd](#esd)**                                 |
+| purchasePrice       | double                |                                                 |
 
 ## Billing
 
